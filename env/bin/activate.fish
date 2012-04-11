@@ -27,7 +27,7 @@ end
 # unset irrelavent variables
 deactivate nondestructive
 
-set -gx VIRTUAL_ENV "/Users/jqcui/Sites/env"
+set -gx VIRTUAL_ENV "/Users/jqcui/Sites/DjangoProject/env"
 
 set -gx _OLD_VIRTUAL_PATH $PATH
 set -gx PATH "$VIRTUAL_ENV/bin" $PATH

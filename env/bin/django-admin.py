@@ -1,4 +1,4 @@
-#!/Users/jqcui/Sites/env/bin/python
+#!/Users/jqcui/Sites/DjangoProject/env/bin/python
 from django.core import management
 
 if __name__ == "__main__":
